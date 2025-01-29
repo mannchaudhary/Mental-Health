@@ -1,6 +1,6 @@
 
 
-# Breath.
+# Mental Health.
 
 This project is all about Mental Health,it shows how important is to look after your mental health
 and shows some easy ways to maintain and improve your mental health. 
