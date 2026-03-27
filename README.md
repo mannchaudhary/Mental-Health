@@ -20,7 +20,7 @@ and shows some easy ways to maintain and improve your mental health.
 I hope i made this project very easy to use,But still if you find any difficulties follow the steps.
 
 * Click the Chatbot Menu 
-* Click Take me there button
+* Click Take me there buttons
 * There you can find a chatbot
 * Click "Start Conversation" botton.
 * Click "Listen me" button and,
